@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt_"goularti-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt_"goularti-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" height="500" width="100%" alt_"goularte-naruto" src="https://giffiles.alphacoders.com/121/12163.gif">
 </div>
   
 ##
