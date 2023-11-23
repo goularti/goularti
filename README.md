@@ -2,7 +2,7 @@
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=goularti&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goularti&layout=compact&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goularti&layout=compact&theme=dracula"/>
 </div>
 
 <div>
