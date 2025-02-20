@@ -1,6 +1,6 @@
 ### Qual a boa de hoje? Eu sou o Gustavo Goularte <img height="50em" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif"/>
 
-<div display="grid" style="padding: 10px; background-color: rgba(255, 255, 255, 0.2); border-radius: 5px; backdrop-filter: blur(10px); display: grid; grid-template-columns: 1fr 1fr 1fr; width: 100%; gap: 10px;">
+<div display="grid" style="padding: 10px; background-color: rgba(255, 255, 255, 0.2); border-radius: 5px; backdrop-filter: blur(10px); display: grid; grid-template-columns: 1fr 1fr 1fr; width: 100%; max-height: 400px; gap: 10px;">
   <img align="center"
       alt_"goularte-HTML5"
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
