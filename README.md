@@ -1,6 +1,11 @@
 ### Qual a boa de hoje? Eu sou o Gustavo Goularte <img height="50em" src="https://i.pinimg.com/originals/ac/8f/61/ac8f610d390a504026b5e7bd2b67818f.gif"/>
 
 <div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=goularti&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goularti&layout=compact&theme=dracula"/>
+</div>
+
+<div>
   <img align="center"
       alt_"goularte-HTML5"
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
